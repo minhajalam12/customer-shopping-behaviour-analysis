@@ -1,11 +1,11 @@
-Customer Shopping Behaviour Analysis:- Using Python,Sql and powerbi.
+## Customer Shopping Behaviour Analysis:- Using Python,Sql and powerbi.
 
-Project Overview :-
+## Project Overview :-
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending 
 patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions. 
 
-Dataset Summary :-
+## Dataset Summary :-
 
     - Rows: 3,900
     - Columns: 18
@@ -15,7 +15,7 @@ Dataset Summary :-
     - Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type)
     - Missing Data: 37 values in Review Rating column
 
-Exploratory Data Analysis using Python:-
+## Exploratory Data Analysis using Python:-
 
 Began with data preparation and cleaning in Python:
 
@@ -31,7 +31,7 @@ Began with data preparation and cleaning in Python:
 
 
 
-Data Analysis using SQL (Business Transactions) :-
+## Data Analysis using SQL (Business Transactions) :-
 
 We performed structured analysis in PostgreSQL to answer key business questions: 
 
@@ -46,16 +46,18 @@ We performed structured analysis in PostgreSQL to answer key business questions:
     9. Repeat Buyers & Subscriptions – Checked whether customers with >5 purchases are more likely to subscribe.
     10. Revenue by Age Group – Calculated total revenue contribution of each age group.
     
- Dashboard in Power BI :-
+## Dashboard in Power BI :-
  
 Finally,  built an interactive dashboard in Power BI to present insights visually
 
 
 
-How to Use This Project:-
+## How to Use This Project:-
 
-  Clone the repository
-   git clone https://github.com/minhajalam12/customer-shopping-behaviour-analysis.gitcd customer-shopping-behaviour-analysis.
+  Clone the repository git clone https://github.com/minhajalam12/customer-shopping-behaviour-analysis.git cd customer-shopping-behaviour-analysis.
+
+
+##  Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo.
 
 
 
