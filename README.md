@@ -50,11 +50,13 @@ We performed structured analysis in PostgreSQL to answer key business questions:
  
 Finally,  built an interactive dashboard in Power BI to present insights visually
 
+https://github.com/minhajalam12/customer-shopping-behaviour-analysis/blob/main/Screenshot%202025-11-27%20025355.png
+
 
 
 ## How to Use This Project:-
 
-  Clone the repository git clone https://github.com/minhajalam12/customer-shopping-behaviour-analysis.git cd customer-shopping-behaviour-analysis.
+    Clone the repository git clone https://github.com/minhajalam12/customer-shopping-behaviour-analysis.git cd customer-shopping-behaviour-analysis.
 
 
 ##  Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo.
