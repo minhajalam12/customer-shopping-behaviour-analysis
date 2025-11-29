@@ -19,14 +19,22 @@ patterns, customer segments, product preferences, and subscription behavior to g
 
 Began with data preparation and cleaning in Python:
 
-● Data Loading: Imported the dataset using pandas. 
+● Data Loading: Imported the dataset using pandas.
+
 ● Initial Exploration: Used df.info() to check structure and .describe() for summary statistics.
+
 ● Missing Data Handling: Checked for null values and imputed missing values in the Review Rating column using the median rating of each product category. 
+
 ● Column Standardization: Renamed columns to snake case for better readability and documentation. 
+
 ● Feature Engineering: 
+
 ○ Created age_group column by binning customer ages. 
+
 ○ Created purchase_frequency_days column from purchase data. 
+
 ● Data Consistency Check: Verified if discount_applied and promo_code_used were redundant; dropped promo_code_used. 
+
 ● Database Integration: Connected Python script to PostgreSQL and loaded the cleaned DataFrame into the database for SQL analysis.
 
 
